@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Sytic</h1>
-<h3 align="center">Estoy queriendo convertirme en ingeniero de Machine Learning</h3>
+<h3 align="center">Estoy queriendo convertirme en ingeniero de Inteligencia artificial</h3>
 
 - 🌱 Estoy en la ruta de Machine Learning básica **Aprendiendo TensorFlow y Pytorch**
 
